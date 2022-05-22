@@ -3,7 +3,6 @@ import React, {useState} from 'react'
 import { TouchableOpacity } from 'react-native';
 
 export default function HeaderTabs() {
-    const [activeTab, setActiveTab] = useState("Delivery")
   return (
     <View style={{flexDirection: "row", alignSelf: "center"}}>
         <HeaderButton

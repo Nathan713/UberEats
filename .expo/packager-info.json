@@ -4,5 +4,7 @@
   "packagerPort": 19000,
   "expoServerNgrokUrl": "https://cc-t8v.nate713.ubereats.exp.direct",
   "packagerNgrokUrl": "https://cc-t8v.nate713.ubereats.exp.direct",
-  "ngrokPid": 17722
+  "ngrokPid": 25207,
+  "packagerPid": null,
+  "webpackServerPort": null
 }
